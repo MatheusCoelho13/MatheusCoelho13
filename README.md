@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### Redes socias:
 <div>
-
-<a href="https://www.twitch.tv/Coelho_matheus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <br>
-<a href="https://www.youtube.com/channel/UCHVXDDvXMhP1zDgqv0DfKSw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/Coelho_matheus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCHVXDDvXMhP1zDgqv0DfKSw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 </div>
