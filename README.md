@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola 👋
 
 <!--
 **MatheusCoelho13/MatheusCoelho13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Atualmente trabalhando em: Master-codes<br>
+📫 Entre em contato: matheusbbusa@gmail.com<br>
+📱 Meu Discord: MatheusCoelho#3370
+
+### Tenologias:
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,nodejs,mongodb,mysql,bots,pr" />
+</a>
