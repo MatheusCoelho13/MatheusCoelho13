@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ### Redes socias:
 <div>
-<a href="https://twitch.tv/Coelho_matheus">https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white</a>
+<a href="https://www.twitch.tv/Coelho_matheus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
