@@ -1,4 +1,4 @@
-### Ola 👋
+### Olá sou o matheus coelho 👋
 
 <!--
 **MatheusCoelho13/MatheusCoelho13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,nodejs,mongodb,mysql,bots,pr" />
 </a>
+
+### Redes socias:
+<div>
+<a href="https://twitch.tv/Coelho_matheus">https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white</a>
+</div>
