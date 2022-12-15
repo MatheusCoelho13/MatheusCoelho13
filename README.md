@@ -1,4 +1,4 @@
-### Olá sou o matheus coelho 👋
+### Olá sou o matheus coelho e gosto muito de tecnologia e resovia aprender👋
 
 <!--
 **MatheusCoelho13/MatheusCoelho13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
