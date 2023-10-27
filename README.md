@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Tenologias:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,nodejs,mongodb,mysql,bots,pr" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,nodejs,mongodb,mysql,bots,pr&perline=5" />
 </a>
 
 ### Redes socias:
