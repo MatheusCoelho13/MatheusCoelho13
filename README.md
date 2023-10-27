@@ -19,10 +19,14 @@ Here are some ideas to get you started:
 📱 Meu Discord: MatheusCoelho#3370
 
 ### Tenologias:
+<div>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr &perline=7" />
 </a>
+</div?
+>
 <!--- separando-->
+
 ### Estou aprendendo:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,bots,flutter,mongodb, ts,androidstudio&perline=7" />
