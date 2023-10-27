@@ -1,8 +1,7 @@
 ### hello world meu nome é Matheus sou programador full-stack👋
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusCoelho13&repo=github-readme-stats&theme=buefy" />
- ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
 Here are some ideas to get you started:
 
@@ -19,10 +18,9 @@ Here are some ideas to get you started:
 📫 Entre em contato: matheusbbusa@gmail.com<br>
 📱 Meu Discord: MatheusCoelho#3370
 ###Estatísticas:
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
+
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=MatheusCoelho13.github.io&theme=buefy" />
 </a>
 ### Tenologias:
 <div>
