@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 ### Tenologias:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,ts,nodejs,mongodb,mysql,bots,flutter,vscode,androidstudio,pr&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr &perline=7" />
+</a>
+<!--- separando-->
+## Estou aprendendo:
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bots,flutter,mongodb, ts,androidstudio&perline=7" />
 </a>
 
 ### Redes socias:
