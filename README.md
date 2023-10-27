@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 💻 Atualmente trabalhando em: Master-codes, ruzo-mobile<br>
 📫 Entre em contato: matheusbbusa@gmail.com<br>
 📱 Meu Discord: MatheusCoelho#3370
-
+###Estatísticas:
+(https://github-readme-stats.vercel.app/api?username=coelho_Matheus&show_icons=true)
 ### Tenologias:
 <div>
 <a href="https://skillicons.dev">
