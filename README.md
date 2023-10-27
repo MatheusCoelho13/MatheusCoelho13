@@ -1,8 +1,6 @@
 ### hello world meu nome é Matheus sou programador full-stack👋
 
-<!--
-**
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusCoelho13&repo=github-readme-stats&theme=buefy" />
  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
