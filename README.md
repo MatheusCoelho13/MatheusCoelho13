@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 📫 Entre em contato: matheusbbusa@gmail.com<br>
 📱 Meu Discord: MatheusCoelho#3370
 ###Estatísticas:
-(https://github-readme-stats.vercel.app/api?username=coelho_Matheus&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coelho_matheus&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 ### Tenologias:
 <div>
 <a href="https://skillicons.dev">
