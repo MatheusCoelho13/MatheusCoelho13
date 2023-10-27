@@ -1,7 +1,10 @@
 ### hello world meu nome é Matheus sou programador full-stack👋
 
 <!--
-**MatheusCoelho13/MatheusCoelho13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusCoelho13&repo=github-readme-stats&theme=buefy" />
+ ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,7 +24,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coelho_matheus&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 ### Tenologias:
 <div>
