@@ -1,4 +1,4 @@
-### Olá sou o matheus coelho e gosto muito de tecnologia e resovia aprender👋
+### hello world meu nome é Matheus sou programador full-stack 
 
 <!--
 **MatheusCoelho13/MatheusCoelho13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Atualmente trabalhando em: Master-codes<br>
+💻 Atualmente trabalhando em: Master-codes, ruzo-mobile<br>
 📫 Entre em contato: matheusbbusa@gmail.com<br>
 📱 Meu Discord: MatheusCoelho#3370
 
