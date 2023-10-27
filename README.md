@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ###Estatísticas:
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=MatheusCoelho13.github.io&theme=buefy" />
-</a>
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusCoelho13&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /
 ### Tenologias:
 <div>
 <a href="https://skillicons.dev">
