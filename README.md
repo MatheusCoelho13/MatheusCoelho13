@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&count_private=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
 ### Tenologias:
 <div>
 <a href="https://skillicons.dev">
