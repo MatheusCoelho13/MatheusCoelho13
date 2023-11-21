@@ -23,13 +23,13 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&count_private=true" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact/>
 
-<div>
+
   <br/>
   ### Tenologias:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr &perline=7" />
 </a>
-</div?
+
 >
 <br/>
 <!--- separando-->
