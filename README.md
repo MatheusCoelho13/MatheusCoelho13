@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 💻 Atualmente trabalhando em: Master-codes, ruzo-mobile<br>
 📫 Entre em contato: matheusbbusa@gmail.com<br>
 📱 Meu Discord: MatheusCoelho#3370
-###Estatísticas:
+
 
 <a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&count_private=true" />
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </a>
 </div?
 >
+<br/>
 <!--- separando-->
 
 ### Estou aprendendo:
