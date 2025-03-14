@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br/>
   ### Tenologias:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr,react,bots,flutter,figma &perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr,react,bots,flutter,figma,dart &perline=7" />
 </a>
 
 >
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Estou aprendendo:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb, ts,androidstudio&perline=7" />
+    <img src="https://skillicons.dev/icons?i=mongodb, ts,androidstudio,c,py,aws&perline=7" />
 </a>
 
 ### Redes socias:
