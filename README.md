@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Atualmente trabalhando em: Master-codes, ruzo-mobile<br>
+💻 Atualmente trabalhando em: DevPath, Suprir<br>
 📫 Entre em contato: matheusbbusa@gmail.com<br>
 📱 Meu Discord: MatheusCoelho#3370
 
 
-<a href="">
+<a href="" aligh="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&count_private=true" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact/>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br/>
   ### Tenologias:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr &perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,vscode,pr,react,bots,flutter,figma &perline=7" />
 </a>
 
 >
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Estou aprendendo:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bots,flutter,mongodb, ts,androidstudio&perline=7" />
+    <img src="https://skillicons.dev/icons?i=mongodb, ts,androidstudio&perline=7" />
 </a>
 
 ### Redes socias:
