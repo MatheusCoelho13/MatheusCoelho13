@@ -32,10 +32,12 @@ Atualmente trabalho nas plataformas **DevPath** e **Suprir**, atuando em projeto
 ---
 
 ### 🛠️ Tecnologias que utilizo
+
 ### 🎨 UX/UI
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma&perline=8" />
 </a>
+
 #### 🎨 Front-end:
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,&perline=8" />
