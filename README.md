@@ -31,15 +31,29 @@ Atualmente trabalho nas plataformas **DevPath** e **Suprir**, atuando em projeto
 
 ---
 
-### 🛠️ Tecnologias que utilizo:
-
+### 🛠️ Tecnologias que utilizo
+### 🎨 UX/UI
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,react,nextjs,flutter,dart,mysql,postgres,vscode,figma,bots&perline=8" />
+  <img src="https://skillicons.dev/icons?i=figma&perline=8" />
+</a>
+#### 🎨 Front-end:
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,&perline=8" />
+</a>
+
+#### ⚙️ Back-end:
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,bots&perline=8" />
+</a>
+
+#### 📱 Mobile:
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=8" />
 </a>
 
 ---
 
-### 📘 Aprendendo atualmente:
+### 📘 Aprendendo atualmente
 
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=mongodb,c,py,androidstudio,aws,docker&perline=7" />
@@ -47,7 +61,7 @@ Atualmente trabalho nas plataformas **DevPath** e **Suprir**, atuando em projeto
 
 ---
 
-### 🌐 Redes sociais:
+### 🌐 Redes sociais
 
 <div>
   <a href="https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/" target="_blank">
