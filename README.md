@@ -7,7 +7,7 @@ Atualmente trabalho nas plataformas **+recompensas** e **Suprir**, atuando em pr
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor com experiência em projetos completos — da modelagem ao deploy
+- 💻 Desenvolvedor com experiência em projetos completos — do design ao deploy
 - 📚 Sempre aprendendo novas tecnologias e frameworks
 - 🤝 Aberto a colaborações em projetos web, mobile
 - 🎯 Foco em soluções práticas, escaláveis e bem documentadas
