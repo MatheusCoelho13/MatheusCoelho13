@@ -1,7 +1,7 @@
 ### 👋 Olá, mundo! Meu nome é Matheus Coelho Fernandes.
 
-Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, Cafe inovação e desafios.  
-Atualmente trabalho nas plataformas **+recompensas01** e **Suprir**, atuando em projetos que envolvem backend, frontend, mobile.
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, Cafe,inovação e desafios.  
+Atualmente trabalho nas plataformas **+recompensas** e **Suprir**, atuando em projetos que envolvem backend, frontend, mobile.
 
 ---
 
@@ -9,7 +9,7 @@ Atualmente trabalho nas plataformas **+recompensas01** e **Suprir**, atuando em 
 
 - 💻 Desenvolvedor com experiência em projetos completos — da modelagem ao deploy
 - 📚 Sempre aprendendo novas tecnologias e frameworks
-- 🤝 Aberto a colaborações em projetos web, mobile e automações
+- 🤝 Aberto a colaborações em projetos web, mobile
 - 🎯 Foco em soluções práticas, escaláveis e bem documentadas
 
 ---
