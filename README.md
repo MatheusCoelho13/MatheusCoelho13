@@ -1,71 +1,79 @@
 
-# 👋 Matheus Coelho Fernandes
+### 👋 Olá, mundo! Meu nome é Matheus Coelho Fernandes.
 
-Desenvolvedor **Full Stack** com experiência em **web, mobile e backend**, apaixonado por criar soluções práticas, rápidas e bem estruturadas.  
-Atualmente atuo nos projetos **+recompensas** e **Suprir**, desenvolvendo desde o front até o deploy final.
-
----
-
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor Full Stack — foco em eficiência, organização e escalabilidade  
-- 📱 Trabalhando com **Flutter**, **React/Next.js**, **Node.js** e **PHP**  
-- 🛠️ Experiência com integrações, APIs, dashboards, sistemas completos  
-- 📚 Sempre aprendendo novas tecnologias  
-- 🤝 Aberto a colaborações e novos desafios
+Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e desafios.  
+Atualmente trabalho nas plataformas **DevPath** e **Suprir**, atuando em projetos que envolvem backend, frontend, mobile e automações.
 
 ---
 
-## 📬 Contato
+### 🚀 Sobre mim
 
-- **E-mail:** [matheusbbusa@gmail.com](mailto:matheusbbusa@gmail.com)  
-- **Discord:** `MatheusCoelho#3370`  
-- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/)
+- 💻 Desenvolvedor com experiência em projetos completos — da modelagem ao deploy
+- 📚 Sempre aprendendo novas tecnologias e frameworks
+- 🤝 Aberto a colaborações em projetos web, mobile e automações
+- 🎯 Foco em soluções práticas, escaláveis e bem documentadas
 
 ---
 
-## 📊 GitHub Stats
+### 📬 Contato
+
+- 📧 E-mail: [matheusbbusa@gmail.com](mailto:matheusbbusa@gmail.com)  
+- 💬 Discord: `MatheusCoelho#3370`  
+- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/)
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
- <img height="180em" src="https://gh-stats-k0hy.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark&count_private=true"/>
-
-<img height="180em" src="https://gh-stats-k0hy.vercel.app/api/top-langs/?username=MatheusCoelho13&hide=blade,css,html&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&show_icons=true&count_private=true&theme=github_dark" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=github_dark"/>
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias que utilizo
 
-### Front-end
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+### 🎨 UX/UI
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma,notion&perline=8" />
 </a>
 
-### Back-end
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres" />
+#### 🎨 Front-end:
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,&perline=8" />
 </a>
 
-### Mobile
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+#### ⚙️ Back-end:
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,typescript,bots&perline=8" />
 </a>
 
-### Ferramentas & Outros
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,git,linux,docker,aws" />
+#### 🗄️ DB
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
+</a>
+
+#### 📱 Mobile:
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=8" />
+</a>
+
+#### ⚙️ DevOps & Cloud (AWS / Infraestrutura)
+<a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=aws,docker,nginx,gitlab" /> </a>
+---
+
+### 📘 Aprendendo atualmente
+
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c,androidstudio,java&perline=7" />
 </a>
 
 ---
 
-## 📘 Estudando atualmente
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,c,py,androidstudio" />
-</a>
+### 🌐 Redes sociais
 
----
-
-## 🌐 Redes sociais
 <div>
   <a href="https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -77,8 +85,3 @@ Atualmente atuo nos projetos **+recompensas** e **Suprir**, desenvolvendo desde 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
-
----
-
-## ✨ Mensagem final
-> _"Código é mais que lógica — é transformar ideias em experiências reais."_
