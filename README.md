@@ -26,8 +26,10 @@ Atualmente atuo nos projetos **+recompensas** e **Suprir**, desenvolvendo desde 
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoelho13&hide=blade,css,html&layout=compact&theme=dark"/>
+ <img height="180em" src="https://gh-stats-k0hy.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark&count_private=true"/>
+
+<img height="180em" src="https://gh-stats-k0hy.vercel.app/api/top-langs/?username=MatheusCoelho13&hide=blade,css,html&layout=compact&theme=dark"/>
+
 </div>
 
 ---
