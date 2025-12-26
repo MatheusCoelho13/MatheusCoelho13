@@ -1,87 +1,113 @@
+# Matheus Coelho Fernandes
+### Full Stack Developer | Web • Mobile • APIs
 
-### 👋 Olá, mundo! Meu nome é Matheus Coelho Fernandes.
+Full Stack Developer with professional experience delivering **production-ready web and mobile applications**, working across backend, frontend, and mobile layers.
 
-Sou um desenvolvedor **Full Stack** apaixonado por tecnologia, inovação e desafios.  
-Atualmente trabalho nas plataformas **DevPath** e **Suprir**, atuando em projetos que envolvem backend, frontend, mobile e automações.
-
----
-
-### 🚀 Sobre mim
-
-- 💻 Desenvolvedor com experiência em projetos completos — da modelagem ao deploy
-- 📚 Sempre aprendendo novas tecnologias e frameworks
-- 🤝 Aberto a colaborações em projetos web, mobile e automações
-- 🎯 Foco em soluções práticas, escaláveis e bem documentadas
+Hands-on experience building **scalable APIs**, mobile apps with **Flutter**, and complete systems following **clean architecture and best practices**. Comfortable working in agile teams and real-world production environments.
 
 ---
 
-### 📬 Contato
-
-- 📧 E-mail: [matheusbbusa@gmail.com](mailto:matheusbbusa@gmail.com)  
-- 💬 Discord: `MatheusCoelho#3370`  
-- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&show_icons=true&count_private=true&theme=github_dark" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=github_dark"/>
-
-</div>
+## Professional Summary
+- End-to-end development of web and mobile applications
+- Strong experience with RESTful APIs, authentication, and data modeling
+- Mobile-first solutions integrated with backend services
+- Clean architecture, maintainable code, and Git-based workflows
+- Experience collaborating in agile and multidisciplinary teams
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+## Technical Skills
 
-### 🎨 UX/UI
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=figma,notion&perline=8" />
-</a>
+**Frontend:**  
+HTML, CSS, JavaScript, TypeScript, React, Next.js, Figma
 
-#### 🎨 Front-end:
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,&perline=8" />
-</a>
+**Backend:**  
+Node.js, PHP, Express, Flask, REST APIs, JWT Authentication
 
-#### ⚙️ Back-end:
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,typescript,bots&perline=8" />
-</a>
+**Mobile:**  
+Flutter, React Native (Expo)
 
-#### 🗄️ DB
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=8" />
-</a>
+**Databases:**  
+MySQL, PostgreSQL, SQLite, MongoDB, Firebase
 
-#### 📱 Mobile:
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=8" />
-</a>
-
-#### ⚙️ DevOps & Cloud (AWS / Infraestrutura)
-<a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=aws,docker,nginx,gitlab" /> </a>
----
-
-### 📘 Aprendendo atualmente
-
-<a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c,androidstudio,java&perline=7" />
-</a>
+**Cloud & Tools:**  
+Git, GitHub, Docker, AWS (foundational), Postman, Insomnia
 
 ---
 
-### 🌐 Redes sociais
+## Selected Projects
 
-<div>
-  <a href="https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/Coelho_matheus" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/channel/UCHVXDDvXMhP1zDgqv0DfKSw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-</div>
+### Suprir API Platform
+Production-grade REST API supporting user management and communication.
+
+- Authentication and authorization using JWT
+- User profiles, messaging system, and location-based search
+- Admin dashboard with metrics and usage insights
+- Designed for scalability and long-term maintenance
+
+**Stack:** PHP, JavaScript, MySQL  
+**Status:** In production
+
+---
+
+### Rota Fácil
+Mobile application for optimizing delivery routes for municipal tax distribution.
+
+- Route optimization focused on operational efficiency
+- Backend integration via Web API
+- Real-world usage with active stakeholders
+
+**Stack:** Flutter, PHP Web API  
+**Status:** Active development
+
+---
+
+### +Recompensas
+Customer loyalty mobile platform with points and rewards system.
+
+- Secure API integration
+- Scalable architecture for future growth
+- User-focused mobile experience
+
+**Stack:** Flutter, PHP Web API  
+**Status:** Active development
+
+---
+
+### Raffle Sales Management System
+Web-based system developed for real operational use.
+
+- User authentication and admin dashboard
+- Data persistence and reporting
+- Designed for non-technical end users
+
+**Stack:** PHP, JavaScript, MySQL
+
+---
+
+### Multi-purpose Discord Bot
+Automation and moderation bot with multiple integrations.
+
+- Utility, moderation, music, and API-based commands
+- Modular and command-driven architecture
+
+**Stack:** Python
+
+---
+
+## Education
+**BSc in Software Engineering** — IDP University (On-site)  
+Currently enrolled
+
+---
+
+## Languages
+- Portuguese — Native
+- English — Intermediate (technical reading & writing)
+
+---
+
+## Contact
+📧 Email: matheuscf6@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/  
+💻 GitHub: https://github.com/MatheusCoelho13
