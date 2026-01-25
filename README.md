@@ -1,108 +1,80 @@
-# Matheus Coelho Fernandes  
-### Full Stack Developer | Web • Mobile • APIs
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-Full Stack Developer with professional experience delivering **production-ready web and mobile applications**, working across backend, frontend, and mobile layers.
+###
 
-Hands-on experience building **scalable APIs**, mobile apps with **Flutter**, and complete systems following **clean architecture and best practices**.
+<div align="center">
+  <a href="www.linkedin.com/in/matheus-coelho-b7a5231b3" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="matheuscf6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
----
+###
 
-## 🧠 Professional Summary
-- End-to-end development of web and mobile applications
-- Strong experience with RESTful APIs, authentication, and data modeling
-- Mobile-first solutions integrated with backend services
-- Clean architecture, maintainable code, and Git-based workflows
-- Experience working in agile and multidisciplinary teams
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCoelho13/MatheusCoelho13/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCoelho13/MatheusCoelho13/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusCoelho13/MatheusCoelho13/output/pacman-contribution-graph.svg">
+</picture>
 
----
+###
 
-## 🛠️ Technical Skills
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheusCoelho13.MatheusCoelho13&"  />
+</div>
 
-**Frontend**  
-HTML, CSS, JavaScript, TypeScript, React, Next.js, Figma
+###
 
-**Backend**  
-Node.js, PHP, Express, Flask, REST APIs, JWT Authentication
+<h1 align="center">hey there 👋</h1>
 
-**Mobile**  
-Flutter, React Native (Expo)
+###
 
-**Databases**  
-MySQL, PostgreSQL, SQLite, MongoDB, Firebase
+<h3 align="left">👩‍💻  About Me</h3>
 
-**Cloud & Tools**  
-Git, GitHub, Docker, AWS (foundational), Postman, Insomnia
+###
 
----
+<p align="left">I'm Matheus Coelho from Brazil 🇧🇷<br><br>- 🔭 I’m working as a software developer focused on backend (PHP/Laravel) and mobile (Flutter)<br>- 📚 I'm currently learning system automation, performance optimization, and scalable API design<br>- ⚡ In my free time I experiment with Linux servers, scripts, and side projects to solve real problems</p>
 
-## 📌 Selected Projects
+###
 
-### 🔹 Suprir API Platform
-Production-grade REST API supporting user management and communication.
+<h3 align="left">🛠 Language and tools</h3>
 
-- Authentication and authorization using JWT
-- User profiles, messaging system, and location-based search
-- Admin dashboard with metrics and usage insights
+###
 
-**Stack:** PHP, JavaScript, MySQL  
-**Status:** In production
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
----
+###
 
-### 🔹 Rota Fácil
-Mobile application for optimizing delivery routes for municipal tax distribution.
+<h3 align="left">🔥   My Stats :</h3>
 
-- Route optimization focused on operational efficiency
-- Backend integration via Web API
+###
 
-**Stack:** Flutter, PHP Web API  
-**Status:** Active development
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusCoelho13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
----
-
-### 🔹 +Recompensas
-Customer loyalty mobile platform with points and rewards system.
-
-- Secure API integration
-- Scalable architecture for future growth
-
-**Stack:** Flutter, PHP Web API  
-**Status:** Active development
-
----
-
-### 🔹 Raffle Sales Management System
-Web-based system developed for real operational use.
-
-- User authentication and admin dashboard
-- Data persistence and reporting
-
-**Stack:** PHP, JavaScript, MySQL
-
----
-
-### 🔹 Multi-purpose Discord Bot
-Automation and moderation bot with multiple integrations.
-
-- Utility, moderation, music, and API-based commands
-
-**Stack:** Python
-
----
-
-## 🎓 Education
-**BSc in Software Engineering** — IDP University  
-Currently enrolled
-
----
-
-## 🌍 Languages
-- Portuguese — Native  
-- English — Intermediate (technical reading & writing)
-
----
-
-## 📬 Contact
-📧 Email: matheuscf6@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/matheus-coelho-fernandes-b7a5231b3/  
-💻 GitHub: https://github.com/MatheusCoelho13
+###
