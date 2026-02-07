@@ -5,7 +5,10 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/matheus-coelho-b7a5231b3" target="_blank">
+  <a href="www.linkedin.com/in/
+matheuscoelhofern
+Vanity URL name
+" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="matheuscf6@gmail.com" target="_blank">
