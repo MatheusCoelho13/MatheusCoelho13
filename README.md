@@ -43,11 +43,13 @@
 <p align="left">
 I'm Matheus Coelho from Brazil 🇧🇷<br><br>
 
-- Backend developer working mainly with PHP/Laravel, building APIs and systems that are used in production<br>
-- Experience dealing with real-world issues such as bugs in production, performance bottlenecks, and data inconsistencies<br>
-- I work across the stack when needed: backend, mobile (Flutter), integrations, and deployments<br>
-- Used to handling authentication, database design, API integrations, and fixing problems under real constraints<br>
-- I maintain and deploy projects on Linux servers and automate repetitive tasks to reduce manual work
+- Backend developer mainly working with PHP and Laravel, building APIs and systems used in production<br>
+- Experience dealing with real-world issues such as production bugs, performance bottlenecks, and data inconsistencies<br>
+- Work across the stack when needed: backend, mobile (Flutter), integrations, and deployments<br>
+- Used to handling authentication, database design, API integrations, and solving problems under real constraints<br>
+- Maintain and deploy projects on Linux servers and automate repetitive tasks to reduce manual work<br><br>
+
+Currently focused on improving my technical skills, learning new tools, and applying best practices in software development.
 </p>
 
 ###
@@ -55,23 +57,48 @@ I'm Matheus Coelho from Brazil 🇧🇷<br><br>
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+
+### 🎨 UX/UI
+Tools used for interface design and prototyping.
+
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma&perline=8" />
+</a>
+
+#### 🎨 Front-end:
+Technologies for building modern and responsive web interfaces.
+
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,&perline=8" />
+</a>
+
+#### ⚙️ Back-end:
+Technologies used to build APIs, services, and business logic.
+
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,postgres,bots&perline=8" />
+</a>
+
+#### 📱 Mobile:
+Cross-platform mobile application development.
+
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=8" />
+</a>
+
+---
+
+### 📘 Currently Learning
+
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb,c,py,androidstudio,aws,docker&perline=7" />
+</a>
+
+<p>
+I am currently learning and exploring new technologies, focusing on improving my understanding of databases, cloud infrastructure, containerization, mobile development, and system-level programming.
+</p>
+
+---
 </div>
 
 ###
@@ -86,5 +113,5 @@ I'm Matheus Coelho from Brazil 🇧🇷<br><br>
 ###
 
 <p align="center">
-Most of my repositories reflect real projects, experiments, and solutions to practical problems.
+Most of my repositories reflect real projects, experiments, and solutions to practical problems, representing my continuous learning and growth as a developer.
 </p>
