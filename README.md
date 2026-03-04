@@ -18,7 +18,7 @@
 <h3 align="left">💻 About Me</h3>
 
 <p align="left">
-Backend developer focused on PHP and Laravel, building APIs and production systems.<br><br>
+Backend developer focused on PHP and Laravel, building APIs and production systems, and Mobile Developer  <br><br>
 
 • Experience solving real-world production issues (performance, bugs, data inconsistencies)<br>
 • Work across the stack when necessary (Backend, Flutter, integrations, deployments)<br>
