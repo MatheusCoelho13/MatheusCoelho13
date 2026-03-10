@@ -56,7 +56,7 @@ Currently improving system architecture skills, scalability practices, and cloud
 ---
 
 <h3 align="left">📘 Currently Learning</h3>
-
+  <img src="https://skillicons.dev/icons?i=c++,java" />
 <p>
 Deepening knowledge in cloud infrastructure, containerization, system performance optimization, and scalable architecture.
 </p>
@@ -66,6 +66,6 @@ Deepening knowledge in cloud infrastructure, containerization, system performanc
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-git-master-maatercodes-projects.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-git-master-maatercodes-projects.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=dark" height="150"/>
 </div>
