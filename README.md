@@ -65,5 +65,5 @@ Deepening knowledge in cloud infrastructure, containerization, system performanc
 
 <div align="center">
   <img src="https://github-readme-stats-wine-six-83.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark" height="150"/>
-  <img src="https://https://github-readme-stats-wine-six-83.vercel.app/api/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-wine-six-83.vercel.app/api/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=dark" height="150"/>
 </div>
