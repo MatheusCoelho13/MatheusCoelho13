@@ -55,9 +55,6 @@ Currently improving system architecture skills, scalability practices, and cloud
 
 <h3 align="left">📘 Currently Learning</h3>
   <img src="https://skillicons.dev/icons?i=cpp,java,debian" />
-<p>
-Deepening knowledge in cloud infrastructure, containerization, system performance optimization, and scalable architecture.
-</p>
 
 ---
 
