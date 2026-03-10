@@ -34,29 +34,27 @@ Currently improving system architecture skills, scalability practices, and cloud
 <h3 align="left">🛠 Tech Stack</h3>
 
 <h4>Backend</h4>
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres" />
-</a>
+
 
 <h4>Frontend</h4>
-<a href="https://skillicons.dev">
+
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</a>
 
 <h4>Mobile</h4>
-<a href="https://skillicons.dev">
+
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</a>
+
 
 <h4>Tools & Infrastructure</h4>
-<a href="https://skillicons.dev">
+
   <img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,androidstudio,figma" />
-</a>
+
 
 ---
 
 <h3 align="left">📘 Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=c++,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,debian" />
 <p>
 Deepening knowledge in cloud infrastructure, containerization, system performance optimization, and scalable architecture.
 </p>
@@ -66,6 +64,6 @@ Deepening knowledge in cloud infrastructure, containerization, system performanc
 <h3 align="left">🔥 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-maatercodes-projects.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats-git-master-maatercodes-projects.vercel.app/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=dark" height="150"/>
+  <img src="https://github-readme-stats-wine-six-83.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark" height="150"/>
+  <img src="https://https://github-readme-stats-wine-six-83.vercel.app/api?username=MatheusCoelho13&show_icons=true&theme=dark"/api/top-langs/?username=MatheusCoelho13&layout=compact&theme=dark" height="150"/>
 </div>
