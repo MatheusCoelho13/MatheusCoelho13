@@ -34,7 +34,7 @@ Currently improving system architecture skills, scalability practices, and cloud
 <h3 align="left">🛠 Tech Stack</h3>
 
 <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nest" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,next" />
 
 <h4>Databases</h4>
   <img src="https://skillicons.dev/icons?i=supabase,mysql,postgres,mongodb" />
@@ -56,7 +56,7 @@ Currently improving system architecture skills, scalability practices, and cloud
 ---
 
 <h3 align="left">📘 Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,debian, prisma" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,debian,nest" />
 
 ---
 
