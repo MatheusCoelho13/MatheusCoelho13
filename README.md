@@ -41,7 +41,7 @@ Currently improving system architecture skills, scalability practices, and cloud
 
 <h4>Frontend</h4>
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react," />
 
 <h4>Mobile</h4>
 
