@@ -15,12 +15,6 @@
 
 <h1 align="center">Hi, I'm Matheus Coelho 👋</h1>
 
-<h3 align="left">💻 About Me</h3>
-
-
-
----
-
 <h3 align="left">🛠 Tech Stack</h3>
 
 <h4>Backend</h4>
