@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -17,17 +17,7 @@
 
 <h3 align="left">💻 About Me</h3>
 
-<p align="left">
-Backend developer focused on PHP and Laravel, building APIs and production systems, and Mobile Developer  <br><br>
 
-• Experience solving real-world production issues (performance, bugs, data inconsistencies)<br>
-• Work across the stack when necessary (Backend, Flutter, integrations, deployments)<br>
-• Strong understanding of authentication, REST APIs, database modeling, and server environments<br>
-• Deploy and maintain applications on Linux servers<br>
-• Automate processes to reduce manual work and improve reliability<br><br>
-
-Currently improving system architecture skills, scalability practices, and cloud knowledge.
-</p>
 
 ---
 
@@ -50,13 +40,13 @@ Currently improving system architecture skills, scalability practices, and cloud
 
 <h4>Tools & Infrastructure</h4>
 
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,linux,androidstudio,figma,notion,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,androidstudio,figma,notion,postman" />
 
 
 ---
 
 <h3 align="left">📘 Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,debian,nest" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,debian,nest,aws,azure" />
 
 ---
 
